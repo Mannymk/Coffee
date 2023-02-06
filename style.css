@@ -119,6 +119,7 @@ ul{
 	display: grid;
 	justify-content: center;
 	align-items: center;
+	width: 100%;
 	
 }
 
@@ -153,3 +154,10 @@ ul{
 		0 7px 0 #ccc, 0 8px 0 #ccc,
 		0 20px 30px rgba(0, 0, 0, 0.5);
 } */
+
+.footer_row{
+	background-color: #24262b;
+	padding: 10px 10px 20px 30px;
+	margin-left: 0px;
+	width: 100%;
+}
